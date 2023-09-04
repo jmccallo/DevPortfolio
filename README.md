@@ -1,7 +1,5 @@
 # DevPortfolio
 
-# Jeremy's Portfolio
-
 Welcome to my Portfolio Page! Here you'll find a collection of my projects and contributions that showcase my journey as a self-learning software developer based in New Jersey.
 
 ## About Me
